@@ -35,3 +35,6 @@ An Implementation of the alogrithm in paper IncepText: A New Inception-Text Modu
 
 ## Test
 ### python test.py
+
+## 李剑备注：
+https://blog.csdn.net/weixin_38708130/article/details/84329951 【论文翻译】2018Inceptext
